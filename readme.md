@@ -67,6 +67,19 @@ python3 rec-feat.py
 
 ###### Made with ❤️ and 🦙 by Akshay Bahadur
 
+## 📌 Cite Us
+
+To cite this guide, use the below format:
+```
+@article{Facial-Recognition-using-Facenet,
+author = {Bahadur, Akshay},
+journal = {https://github.com/akshaybahadur21/Facial-Recognition-using-Facenet},
+month = {01},
+title = {{Facial-Recognition-using-Facenet}},
+year = {2018}
+}
+```
+
 ## References 🔱
  
  - Florian Schroff, Dmitry Kalenichenko, James Philbin (2015). [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
